@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 typedef struct _node {
-    Node* next;
+    Node* Next;
     int value;
 } Node;
 
-int main(){
+int main(Strings args[]){
     return 0;
 }
